@@ -2,7 +2,7 @@
 This is a modified version of mediacontroller plasma5 widget.
 
 ---
-NackJyman's Fork
+## NackJyman's Fork
 
 Intent is to change the desktop's Full Representation Vertical View to be able to remove the media player buttons. I want to display it just the same but without the buttons and not have empty space where they were. I do not require these buttons and would cover them with another widget however I can't figure out how to make that happen nicely so I am opting to do this.
 
