@@ -1,6 +1,13 @@
 # mediacontroller+
 This is a modified version of mediacontroller plasma5 widget.
 
+---
+NackJyman's Fork
+
+Intent is to change the desktop's Full Representation Vertical View to be able to remove the media player buttons. I want to display it just the same but without the buttons and not have empty space where they were. I do not require these buttons and would cover them with another widget however I can't figure out how to make that happen nicely so I am opting to do this.
+
+---
+
 It provides the same functionality as the traditional mediacontroller widget, giving you control over every media player in your system (through the MPRIS2 protocol), but it adapts to more factor forms and sizes, allowing you to have a nice media control even on the panel.
 
 You can download it on the [KDE Store](https://store.kde.org/p/1317639/), or use the built-in 'Get New Addons' directly in your plasma desktop.
